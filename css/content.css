@@ -1,0 +1,20 @@
+/* #myhead{
+    color:blueviolet;
+    font-size: 36px;
+}
+*/
+blockquote{
+    background: rgb(234, 234, 234);
+}
+a{
+    text-decoration: none;
+}
+
+.list{
+    background: rgb(234, 234, 234);
+    border: solid rgb(164, 164, 164);;
+}
+
+.sidebar{
+    background: rgb(222, 221, 221);
+}
